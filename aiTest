@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<script>
 import { GoogleGenAI, Modality } from "@google/genai";
 import * as fs from "node:fs";
 
@@ -32,3 +40,7 @@ async function main() {
 }
 
 main();
+</script>
+
+</body>
+</html>
